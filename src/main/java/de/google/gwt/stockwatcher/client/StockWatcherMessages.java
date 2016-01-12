@@ -10,5 +10,4 @@ public interface StockWatcherMessages extends Messages {
 
     @DefaultMessage("Last update: {0,date,medium} {0,time,medium}")
     String lastUpdate(Date timestamp);
-
 }
