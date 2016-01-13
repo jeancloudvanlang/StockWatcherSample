@@ -4,6 +4,6 @@
     <inherits name='de.google.gwt.stockwatcher.StockWatcher'/>
 
     <!-- Specify the path to any remote services.                   -->
-    <servlet path="/StockWatcher/greet" class="de.google.gwt.stockwatcher.server.GreetingServiceImpl"/>
+    <!--servlet path="/StockWatcher/greet" class="de.google.gwt.stockwatcher.server.GreetingServiceImpl"/-->
 
 </module>
